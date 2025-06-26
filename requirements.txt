@@ -1,0 +1,17 @@
+# PlanIt - Simple Task Manager
+# Core dependencies
+
+# CLI and terminal interface
+rich>=13.0.0
+typer>=0.9.0
+
+# TUI (Terminal User Interface)
+textual>=0.44.0
+
+# Database (SQLite is built-in Python)
+# No additional database dependencies needed
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=5.0.0
