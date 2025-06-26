@@ -193,7 +193,7 @@ MIT License - see LICENSE file for details.
 
 ## 🆘 Support
 
-- 📧 Email: your.email@example.com
+- 📧 Email: olivier.pouech@epitech.eu
 - 🐛 Issues: [GitHub Issues](https://github.com/Livoooo/planit/issues)
 - 📖 Docs: [Wiki](https://github.com/Livoooo/planit/wiki)
 
