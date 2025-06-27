@@ -18,7 +18,7 @@ A lightweight terminal-based task manager and scheduler designed for students an
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/planit.git
+git clone git@github.com:Livoooo/PlanIt.git
 cd planit
 
 python3 -m venv planit-env
