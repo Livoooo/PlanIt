@@ -1,4 +1,4 @@
-az# 📋 PlanIt - Simple Task Manager
+# 📋 PlanIt - Simple Task Manager
 a
 A lightweight terminal-based task manager and scheduler designed for students and developers who prefer working in the terminal.
 
@@ -203,3 +203,4 @@ MIT License - see LICENSE file for details.
 - [Textual](https://github.com/Textualize/textual) - Modern TUI framework
 - [Typer](https://github.com/tiangolo/typer) - CLI frameworktest ngrok webhook
 test ngrok webhook
+dza
