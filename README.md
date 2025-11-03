@@ -1,4 +1,4 @@
-# 📋 PlanIt - Simple Task Manager
+az# 📋 PlanIt - Simple Task Manager
 a
 A lightweight terminal-based task manager and scheduler designed for students and developers who prefer working in the terminal.
 
